@@ -17,3 +17,7 @@ We here pin that repository on github to the 0.2.0 branch because:
 If you experience or experienced a similar issue concerning mismatched
 pack length with legit, please drop a note on this repositories'
 issues.
+
+The core low level issue in go-git is documented [here][go-git-pack].
+
+[go-git-pack]: https://github.com/go-git/go-git/issues/647
